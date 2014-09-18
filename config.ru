@@ -1,0 +1,2 @@
+require './plathome'
+run Plathome
