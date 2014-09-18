@@ -6,4 +6,5 @@ class Plathome < Sinatra::Base
     'Hello world!'
   end
 
+  run! if app_file == $0
 end
